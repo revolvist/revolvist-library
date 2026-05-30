@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T00:00:00Z",
+  "updatedAt": "2026-05-30T00:00:00Z",
   "featuredId": "trekking-dolomiti-3gg",
   "entries": [
     {
@@ -11,6 +11,7 @@
       "gradient": ["#2D44C4", "#4863E8"],
       "accent": "#4863E8",
       "categoryMeta": {
+        "id": "outdoor",
         "name": "Outdoor",
         "glyph": "🏕️",
         "gradient": ["#9DC2A2", "#5A8A6B"],
@@ -51,6 +52,7 @@
       "gradient": ["#8AA8D9", "#5A7AB8"],
       "accent": "#5A7AB8",
       "categoryMeta": {
+        "id": "business",
         "name": "Business",
         "glyph": "💼",
         "gradient": ["#9BA9D6", "#6478B5"],
@@ -83,6 +85,7 @@
       "gradient": ["#F2C5D9", "#D88FB5"],
       "accent": "#D88FB5",
       "categoryMeta": {
+        "id": "family",
         "name": "Famiglia",
         "glyph": "👨‍👩‍👧",
         "gradient": ["#F2C5D9", "#D88FB5"],
@@ -127,6 +130,7 @@
       "gradient": ["#98C39B", "#6B9B6E"],
       "accent": "#6B9B6E",
       "categoryMeta": {
+        "id": "outdoor",
         "name": "Outdoor",
         "glyph": "🏕️",
         "gradient": ["#9DC2A2", "#5A8A6B"],

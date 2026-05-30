@@ -26,7 +26,8 @@ jsDelivr serve il file con cache CDN globale e supporta `If-Modified-Since`. Per
       "gradient": ["#start", "#end"],
       "accent": "#hex",
       "categoryMeta": {
-        "name": "Nome categoria",
+        "id": "kebab-case",            // identificatore stabile (es. outdoor)
+        "name": "Nome categoria",      // label di default (IT) se il client non ha traduzione
         "glyph": "🏕️",
         "gradient": ["#start", "#end"],
         "accent": "#hex"
