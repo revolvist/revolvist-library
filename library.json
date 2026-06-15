@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T00:00:00Z",
+  "updatedAt": "2026-06-15T12:36:59Z",
   "featuredId": "trekking-dolomiti-3gg",
   "entries": [
     {
@@ -8,40 +8,146 @@
       "title": "Trekking Dolomiti",
       "sub": "3 giorni · alta quota",
       "glyph": "🏔️",
-      "gradient": ["#2D44C4", "#4863E8"],
+      "gradient": [
+        "#2D44C4",
+        "#4863E8"
+      ],
       "accent": "#4863E8",
       "categoryMeta": {
         "id": "outdoor",
         "name": "Outdoor",
         "glyph": "🏕️",
-        "gradient": ["#9DC2A2", "#5A8A6B"],
+        "gradient": [
+          "#9DC2A2",
+          "#5A8A6B"
+        ],
         "accent": "#5A8A6B"
       },
       "items": [
-        { "id": 1,  "label": "Scarponi A/B alta", "section": "Vestiario", "required": true },
-        { "id": 2,  "label": "Calze tecniche ×3", "section": "Vestiario" },
-        { "id": 3,  "label": "Pantaloni convertibili", "section": "Vestiario" },
-        { "id": 4,  "label": "Strato base termico", "section": "Vestiario" },
-        { "id": 5,  "label": "Pile + softshell", "section": "Vestiario" },
-        { "id": 6,  "label": "Guscio antipioggia", "section": "Vestiario" },
-        { "id": 7,  "label": "Cappellino + buff", "section": "Vestiario" },
-        { "id": 8,  "label": "Guanti leggeri", "section": "Vestiario" },
-        { "id": 9,  "label": "Zaino 40-50L", "section": "Attrezzatura" },
-        { "id": 10, "label": "Bastoncini telescopici", "section": "Attrezzatura" },
-        { "id": 11, "label": "Borraccia 1L + sistema idratazione", "section": "Attrezzatura" },
-        { "id": 12, "label": "Lampada frontale + ricambio pile", "section": "Attrezzatura", "required": true },
-        { "id": 13, "label": "Sacco lenzuolo rifugio", "section": "Attrezzatura" },
-        { "id": 14, "label": "Tappi per le orecchie", "section": "Attrezzatura" },
-        { "id": 15, "label": "Asciugamano microfibra", "section": "Attrezzatura" },
-        { "id": 16, "label": "Ciabatte per rifugio", "section": "Attrezzatura" },
-        { "id": 17, "label": "Kit pronto soccorso", "section": "Sicurezza", "required": true },
-        { "id": 18, "label": "Coperta isotermica", "section": "Sicurezza" },
-        { "id": 19, "label": "Mappa + bussola", "section": "Sicurezza" },
-        { "id": 20, "label": "Crema solare SPF 50", "section": "Sicurezza" },
-        { "id": 21, "label": "Cibo energetico (barrette, frutta secca)", "section": "Cibo" },
-        { "id": 22, "label": "Pranzo al sacco × giorni", "section": "Cibo" },
-        { "id": 23, "label": "Contanti per rifugio", "section": "Cibo" },
-        { "id": 24, "label": "Carta d’identità + tessera CAI", "section": "Cibo", "required": true }
+        {
+          "id": 1,
+          "label": "Scarponi A/B alta",
+          "section": "Vestiario",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Calze tecniche ×3",
+          "section": "Vestiario"
+        },
+        {
+          "id": 3,
+          "label": "Pantaloni convertibili",
+          "section": "Vestiario"
+        },
+        {
+          "id": 4,
+          "label": "Strato base termico",
+          "section": "Vestiario"
+        },
+        {
+          "id": 5,
+          "label": "Pile + softshell",
+          "section": "Vestiario"
+        },
+        {
+          "id": 6,
+          "label": "Guscio antipioggia",
+          "section": "Vestiario"
+        },
+        {
+          "id": 7,
+          "label": "Cappellino + buff",
+          "section": "Vestiario"
+        },
+        {
+          "id": 8,
+          "label": "Guanti leggeri",
+          "section": "Vestiario"
+        },
+        {
+          "id": 9,
+          "label": "Zaino 40-50L",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 10,
+          "label": "Bastoncini telescopici",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 11,
+          "label": "Borraccia 1L + sistema idratazione",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 12,
+          "label": "Lampada frontale + ricambio pile",
+          "section": "Attrezzatura",
+          "required": true
+        },
+        {
+          "id": 13,
+          "label": "Sacco lenzuolo rifugio",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 14,
+          "label": "Tappi per le orecchie",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 15,
+          "label": "Asciugamano microfibra",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 16,
+          "label": "Ciabatte per rifugio",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 17,
+          "label": "Kit pronto soccorso",
+          "section": "Sicurezza",
+          "required": true
+        },
+        {
+          "id": 18,
+          "label": "Coperta isotermica",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 19,
+          "label": "Mappa + bussola",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 20,
+          "label": "Crema solare SPF 50",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 21,
+          "label": "Cibo energetico (barrette, frutta secca)",
+          "section": "Cibo"
+        },
+        {
+          "id": 22,
+          "label": "Pranzo al sacco × giorni",
+          "section": "Cibo"
+        },
+        {
+          "id": 23,
+          "label": "Contanti per rifugio",
+          "section": "Cibo"
+        },
+        {
+          "id": 24,
+          "label": "Carta d’identità + tessera CAI",
+          "section": "Cibo",
+          "required": true
+        }
       ]
     },
     {
@@ -49,32 +155,104 @@
       "title": "Business essentials",
       "sub": "Trasferta · 3 giorni",
       "glyph": "💼",
-      "gradient": ["#8AA8D9", "#5A7AB8"],
+      "gradient": [
+        "#8AA8D9",
+        "#5A7AB8"
+      ],
       "accent": "#5A7AB8",
       "categoryMeta": {
         "id": "business",
         "name": "Business",
         "glyph": "💼",
-        "gradient": ["#9BA9D6", "#6478B5"],
+        "gradient": [
+          "#9BA9D6",
+          "#6478B5"
+        ],
         "accent": "#6478B5"
       },
       "items": [
-        { "id": 1, "label": "Passaporto / Carta d’identità", "section": "Documenti", "required": true },
-        { "id": 2, "label": "Biglietti volo / treno", "section": "Documenti", "required": true },
-        { "id": 3, "label": "Carta credito aziendale", "section": "Documenti" },
-        { "id": 4, "label": "Laptop + caricabatterie", "section": "Lavoro" },
-        { "id": 5, "label": "Cuffie con microfono", "section": "Lavoro" },
-        { "id": 6, "label": "Block notes + penna", "section": "Lavoro" },
-        { "id": 7, "label": "Biglietti da visita", "section": "Lavoro" },
-        { "id": 8, "label": "Camicie ×3", "section": "Vestiario" },
-        { "id": 9, "label": "Completo", "section": "Vestiario" },
-        { "id": 10, "label": "Scarpe formali", "section": "Vestiario" },
-        { "id": 11, "label": "Cravatta", "section": "Vestiario" },
-        { "id": 12, "label": "Spazzolino + dentifricio", "section": "Bagno" },
-        { "id": 13, "label": "Necessaire", "section": "Bagno" },
-        { "id": 14, "label": "Adattatore presa", "section": "Tech" },
-        { "id": 15, "label": "Power bank", "section": "Tech" },
-        { "id": 16, "label": "Cavi USB-C / Lightning", "section": "Tech" }
+        {
+          "id": 1,
+          "label": "Passaporto / Carta d’identità",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Biglietti volo / treno",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Carta credito aziendale",
+          "section": "Documenti"
+        },
+        {
+          "id": 4,
+          "label": "Laptop + caricabatterie",
+          "section": "Lavoro"
+        },
+        {
+          "id": 5,
+          "label": "Cuffie con microfono",
+          "section": "Lavoro"
+        },
+        {
+          "id": 6,
+          "label": "Block notes + penna",
+          "section": "Lavoro"
+        },
+        {
+          "id": 7,
+          "label": "Biglietti da visita",
+          "section": "Lavoro"
+        },
+        {
+          "id": 8,
+          "label": "Camicie ×3",
+          "section": "Vestiario"
+        },
+        {
+          "id": 9,
+          "label": "Completo",
+          "section": "Vestiario"
+        },
+        {
+          "id": 10,
+          "label": "Scarpe formali",
+          "section": "Vestiario"
+        },
+        {
+          "id": 11,
+          "label": "Cravatta",
+          "section": "Vestiario"
+        },
+        {
+          "id": 12,
+          "label": "Spazzolino + dentifricio",
+          "section": "Bagno"
+        },
+        {
+          "id": 13,
+          "label": "Necessaire",
+          "section": "Bagno"
+        },
+        {
+          "id": 14,
+          "label": "Adattatore presa",
+          "section": "Tech"
+        },
+        {
+          "id": 15,
+          "label": "Power bank",
+          "section": "Tech"
+        },
+        {
+          "id": 16,
+          "label": "Cavi USB-C / Lightning",
+          "section": "Tech"
+        }
       ]
     },
     {
@@ -82,44 +260,165 @@
       "title": "Borsa ospedale (parto)",
       "sub": "Mamma · bimbo · papà",
       "glyph": "🤰",
-      "gradient": ["#F2C5D9", "#D88FB5"],
+      "gradient": [
+        "#F2C5D9",
+        "#D88FB5"
+      ],
       "accent": "#D88FB5",
       "categoryMeta": {
         "id": "family",
         "name": "Famiglia",
         "glyph": "👨‍👩‍👧",
-        "gradient": ["#F2C5D9", "#D88FB5"],
+        "gradient": [
+          "#F2C5D9",
+          "#D88FB5"
+        ],
         "accent": "#D88FB5"
       },
       "items": [
-        { "id": 1, "label": "Documenti mamma", "section": "Documenti", "required": true },
-        { "id": 2, "label": "Tessera sanitaria", "section": "Documenti", "required": true },
-        { "id": 3, "label": "Piano del parto", "section": "Documenti" },
-        { "id": 4, "label": "Esami e ecografie", "section": "Documenti" },
-        { "id": 5, "label": "Camicia da notte aperta davanti", "section": "Mamma" },
-        { "id": 6, "label": "Vestaglia + ciabatte", "section": "Mamma" },
-        { "id": 7, "label": "Reggiseno allattamento", "section": "Mamma" },
-        { "id": 8, "label": "Coppette assorbilatte", "section": "Mamma" },
-        { "id": 9, "label": "Slip usa e getta", "section": "Mamma" },
-        { "id": 10, "label": "Assorbenti post-parto", "section": "Mamma" },
-        { "id": 11, "label": "Necessaire mamma", "section": "Mamma" },
-        { "id": 12, "label": "Body 0-1 mese ×5", "section": "Bimbo" },
-        { "id": 13, "label": "Tutine ×5", "section": "Bimbo" },
-        { "id": 14, "label": "Cuffietta + calzini", "section": "Bimbo" },
-        { "id": 15, "label": "Coperta morbida", "section": "Bimbo" },
-        { "id": 16, "label": "Pannolini taglia 1", "section": "Bimbo" },
-        { "id": 17, "label": "Salviette delicate", "section": "Bimbo" },
-        { "id": 18, "label": "Crema cambio pannolino", "section": "Bimbo" },
-        { "id": 19, "label": "Tuta uscita ospedale", "section": "Bimbo" },
-        { "id": 20, "label": "Cambio per papà", "section": "Papà" },
-        { "id": 21, "label": "Snack + acqua", "section": "Papà" },
-        { "id": 22, "label": "Telefono + caricabatterie", "section": "Papà" },
-        { "id": 23, "label": "Auricolari", "section": "Papà" },
-        { "id": 24, "label": "Fotocamera", "section": "Papà" },
-        { "id": 25, "label": "Lista contatti da avvisare", "section": "Papà" },
-        { "id": 26, "label": "Seggiolino auto per il rientro", "section": "Rientro", "required": true },
-        { "id": 27, "label": "Tutina + copertina di rientro", "section": "Rientro" },
-        { "id": 28, "label": "Borsa termica pasti", "section": "Extra" }
+        {
+          "id": 1,
+          "label": "Documenti mamma",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Tessera sanitaria",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Piano del parto",
+          "section": "Documenti"
+        },
+        {
+          "id": 4,
+          "label": "Esami e ecografie",
+          "section": "Documenti"
+        },
+        {
+          "id": 5,
+          "label": "Camicia da notte aperta davanti",
+          "section": "Mamma"
+        },
+        {
+          "id": 6,
+          "label": "Vestaglia + ciabatte",
+          "section": "Mamma"
+        },
+        {
+          "id": 7,
+          "label": "Reggiseno allattamento",
+          "section": "Mamma"
+        },
+        {
+          "id": 8,
+          "label": "Coppette assorbilatte",
+          "section": "Mamma"
+        },
+        {
+          "id": 9,
+          "label": "Slip usa e getta",
+          "section": "Mamma"
+        },
+        {
+          "id": 10,
+          "label": "Assorbenti post-parto",
+          "section": "Mamma"
+        },
+        {
+          "id": 11,
+          "label": "Necessaire mamma",
+          "section": "Mamma"
+        },
+        {
+          "id": 12,
+          "label": "Body 0-1 mese ×5",
+          "section": "Bimbo"
+        },
+        {
+          "id": 13,
+          "label": "Tutine ×5",
+          "section": "Bimbo"
+        },
+        {
+          "id": 14,
+          "label": "Cuffietta + calzini",
+          "section": "Bimbo"
+        },
+        {
+          "id": 15,
+          "label": "Coperta morbida",
+          "section": "Bimbo"
+        },
+        {
+          "id": 16,
+          "label": "Pannolini taglia 1",
+          "section": "Bimbo"
+        },
+        {
+          "id": 17,
+          "label": "Salviette delicate",
+          "section": "Bimbo"
+        },
+        {
+          "id": 18,
+          "label": "Crema cambio pannolino",
+          "section": "Bimbo"
+        },
+        {
+          "id": 19,
+          "label": "Tuta uscita ospedale",
+          "section": "Bimbo"
+        },
+        {
+          "id": 20,
+          "label": "Cambio per papà",
+          "section": "Papà"
+        },
+        {
+          "id": 21,
+          "label": "Snack + acqua",
+          "section": "Papà"
+        },
+        {
+          "id": 22,
+          "label": "Telefono + caricabatterie",
+          "section": "Papà"
+        },
+        {
+          "id": 23,
+          "label": "Auricolari",
+          "section": "Papà"
+        },
+        {
+          "id": 24,
+          "label": "Fotocamera",
+          "section": "Papà"
+        },
+        {
+          "id": 25,
+          "label": "Lista contatti da avvisare",
+          "section": "Papà"
+        },
+        {
+          "id": 26,
+          "label": "Seggiolino auto per il rientro",
+          "section": "Rientro",
+          "required": true
+        },
+        {
+          "id": 27,
+          "label": "Tutina + copertina di rientro",
+          "section": "Rientro"
+        },
+        {
+          "id": 28,
+          "label": "Borsa termica pasti",
+          "section": "Extra"
+        }
       ]
     },
     {
@@ -127,47 +426,2950 @@
       "title": "Bivacco invernale",
       "sub": "Alta quota · sotto zero",
       "glyph": "🏔️",
-      "gradient": ["#98C39B", "#6B9B6E"],
+      "gradient": [
+        "#98C39B",
+        "#6B9B6E"
+      ],
       "accent": "#6B9B6E",
       "categoryMeta": {
         "id": "outdoor",
         "name": "Outdoor",
         "glyph": "🏕️",
-        "gradient": ["#9DC2A2", "#5A8A6B"],
+        "gradient": [
+          "#9DC2A2",
+          "#5A8A6B"
+        ],
         "accent": "#5A8A6B"
       },
       "items": [
-        { "id": 1, "label": "Sacco a pelo -10°C", "section": "Notte", "required": true },
-        { "id": 2, "label": "Materassino isolante", "section": "Notte", "required": true },
-        { "id": 3, "label": "Sacco lenzuolo termico", "section": "Notte" },
-        { "id": 4, "label": "Tenda 4 stagioni", "section": "Notte" },
-        { "id": 5, "label": "Strato base termico", "section": "Vestiario" },
-        { "id": 6, "label": "Pile pesante", "section": "Vestiario" },
-        { "id": 7, "label": "Giacca piuma / softshell", "section": "Vestiario" },
-        { "id": 8, "label": "Guscio antivento", "section": "Vestiario" },
-        { "id": 9, "label": "Pantaloni invernali", "section": "Vestiario" },
-        { "id": 10, "label": "Calze tecniche ×3", "section": "Vestiario" },
-        { "id": 11, "label": "Guanti caldi + sotto-guanti", "section": "Vestiario" },
-        { "id": 12, "label": "Cappello + scaldacollo", "section": "Vestiario" },
-        { "id": 13, "label": "Scarponi alta montagna", "section": "Vestiario", "required": true },
-        { "id": 14, "label": "Ramponi", "section": "Attrezzatura" },
-        { "id": 15, "label": "Piccozza", "section": "Attrezzatura" },
-        { "id": 16, "label": "Bastoncini", "section": "Attrezzatura" },
-        { "id": 17, "label": "Zaino 60L", "section": "Attrezzatura" },
-        { "id": 18, "label": "Lampada frontale + ricambio pile", "section": "Attrezzatura", "required": true },
-        { "id": 19, "label": "Fornelletto + cartuccia", "section": "Cibo" },
-        { "id": 20, "label": "Pentolino + tazza", "section": "Cibo" },
-        { "id": 21, "label": "Cibo liofilizzato", "section": "Cibo" },
-        { "id": 22, "label": "Barrette energetiche", "section": "Cibo" },
-        { "id": 23, "label": "Acqua + thermos", "section": "Cibo" },
-        { "id": 24, "label": "Kit pronto soccorso", "section": "Sicurezza", "required": true },
-        { "id": 25, "label": "Coperta isotermica", "section": "Sicurezza" },
-        { "id": 26, "label": "GPS + mappa cartacea", "section": "Sicurezza" },
-        { "id": 27, "label": "Bussola", "section": "Sicurezza" },
-        { "id": 28, "label": "Telefono satellitare / PLB", "section": "Sicurezza" },
-        { "id": 29, "label": "Crema solare alta quota", "section": "Extra" },
-        { "id": 30, "label": "Occhiali da sole categoria 4", "section": "Extra" },
-        { "id": 31, "label": "Salviette + sacco rifiuti", "section": "Extra" }
+        {
+          "id": 1,
+          "label": "Sacco a pelo -10°C",
+          "section": "Notte",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Materassino isolante",
+          "section": "Notte",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Sacco lenzuolo termico",
+          "section": "Notte"
+        },
+        {
+          "id": 4,
+          "label": "Tenda 4 stagioni",
+          "section": "Notte"
+        },
+        {
+          "id": 5,
+          "label": "Strato base termico",
+          "section": "Vestiario"
+        },
+        {
+          "id": 6,
+          "label": "Pile pesante",
+          "section": "Vestiario"
+        },
+        {
+          "id": 7,
+          "label": "Giacca piuma / softshell",
+          "section": "Vestiario"
+        },
+        {
+          "id": 8,
+          "label": "Guscio antivento",
+          "section": "Vestiario"
+        },
+        {
+          "id": 9,
+          "label": "Pantaloni invernali",
+          "section": "Vestiario"
+        },
+        {
+          "id": 10,
+          "label": "Calze tecniche ×3",
+          "section": "Vestiario"
+        },
+        {
+          "id": 11,
+          "label": "Guanti caldi + sotto-guanti",
+          "section": "Vestiario"
+        },
+        {
+          "id": 12,
+          "label": "Cappello + scaldacollo",
+          "section": "Vestiario"
+        },
+        {
+          "id": 13,
+          "label": "Scarponi alta montagna",
+          "section": "Vestiario",
+          "required": true
+        },
+        {
+          "id": 14,
+          "label": "Ramponi",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 15,
+          "label": "Piccozza",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 16,
+          "label": "Bastoncini",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 17,
+          "label": "Zaino 60L",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 18,
+          "label": "Lampada frontale + ricambio pile",
+          "section": "Attrezzatura",
+          "required": true
+        },
+        {
+          "id": 19,
+          "label": "Fornelletto + cartuccia",
+          "section": "Cibo"
+        },
+        {
+          "id": 20,
+          "label": "Pentolino + tazza",
+          "section": "Cibo"
+        },
+        {
+          "id": 21,
+          "label": "Cibo liofilizzato",
+          "section": "Cibo"
+        },
+        {
+          "id": 22,
+          "label": "Barrette energetiche",
+          "section": "Cibo"
+        },
+        {
+          "id": 23,
+          "label": "Acqua + thermos",
+          "section": "Cibo"
+        },
+        {
+          "id": 24,
+          "label": "Kit pronto soccorso",
+          "section": "Sicurezza",
+          "required": true
+        },
+        {
+          "id": 25,
+          "label": "Coperta isotermica",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 26,
+          "label": "GPS + mappa cartacea",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 27,
+          "label": "Bussola",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 28,
+          "label": "Telefono satellitare / PLB",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 29,
+          "label": "Crema solare alta quota",
+          "section": "Extra"
+        },
+        {
+          "id": 30,
+          "label": "Occhiali da sole categoria 4",
+          "section": "Extra"
+        },
+        {
+          "id": 31,
+          "label": "Salviette + sacco rifiuti",
+          "section": "Extra"
+        }
+      ]
+    },
+    {
+      "id": "valigia-mare",
+      "title": "Valigia mare",
+      "sub": "Vacanza estiva · 7 giorni",
+      "glyph": "🏖️",
+      "gradient": [
+        "#F4C088",
+        "#E8A87C"
+      ],
+      "accent": "#E8A87C",
+      "categoryMeta": {
+        "id": "viaggio",
+        "name": "Viaggio",
+        "glyph": "✈️",
+        "gradient": [
+          "#F4C088",
+          "#E8A87C"
+        ],
+        "accent": "#E8A87C"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Carta d'identità / passaporto",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Tessera sanitaria",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Biglietti / prenotazioni hotel",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Contanti + carta",
+          "section": "Documenti"
+        },
+        {
+          "id": 5,
+          "label": "Costumi ×2",
+          "section": "Spiaggia"
+        },
+        {
+          "id": 6,
+          "label": "Telo mare",
+          "section": "Spiaggia"
+        },
+        {
+          "id": 7,
+          "label": "Occhiali da sole",
+          "section": "Spiaggia"
+        },
+        {
+          "id": 8,
+          "label": "Cappello",
+          "section": "Spiaggia"
+        },
+        {
+          "id": 9,
+          "label": "Infradito",
+          "section": "Spiaggia"
+        },
+        {
+          "id": 10,
+          "label": "Crema solare SPF 50",
+          "section": "Spiaggia",
+          "required": true
+        },
+        {
+          "id": 11,
+          "label": "Doposole",
+          "section": "Spiaggia"
+        },
+        {
+          "id": 12,
+          "label": "T-shirt ×5",
+          "section": "Vestiti"
+        },
+        {
+          "id": 13,
+          "label": "Pantaloncini ×3",
+          "section": "Vestiti"
+        },
+        {
+          "id": 14,
+          "label": "Vestito / camicia per la sera",
+          "section": "Vestiti"
+        },
+        {
+          "id": 15,
+          "label": "Felpa leggera",
+          "section": "Vestiti"
+        },
+        {
+          "id": 16,
+          "label": "Intimo + calze",
+          "section": "Vestiti"
+        },
+        {
+          "id": 17,
+          "label": "Spazzolino + dentifricio",
+          "section": "Bagno"
+        },
+        {
+          "id": 18,
+          "label": "Necessaire",
+          "section": "Bagno"
+        },
+        {
+          "id": 19,
+          "label": "Spray anti-zanzare",
+          "section": "Bagno"
+        },
+        {
+          "id": 20,
+          "label": "Caricabatterie telefono",
+          "section": "Extra"
+        },
+        {
+          "id": 21,
+          "label": "Power bank",
+          "section": "Extra"
+        },
+        {
+          "id": 22,
+          "label": "Auricolari",
+          "section": "Extra"
+        },
+        {
+          "id": 23,
+          "label": "Libro / e-reader",
+          "section": "Extra"
+        },
+        {
+          "id": 24,
+          "label": "Borraccia",
+          "section": "Extra"
+        }
+      ]
+    },
+    {
+      "id": "bagaglio-a-mano",
+      "title": "Bagaglio a mano",
+      "sub": "Volo low-cost · solo cabina",
+      "glyph": "🧳",
+      "gradient": [
+        "#F4C088",
+        "#E8A87C"
+      ],
+      "accent": "#E8A87C",
+      "categoryMeta": {
+        "id": "viaggio",
+        "name": "Viaggio",
+        "glyph": "✈️",
+        "gradient": [
+          "#F4C088",
+          "#E8A87C"
+        ],
+        "accent": "#E8A87C"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Carta d'imbarco (sul telefono)",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Documento d'identità",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Verifica misure/peso bagaglio",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Liquidi ≤ 100 ml in busta trasparente",
+          "section": "Liquidi",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Mini dentifricio + spazzolino",
+          "section": "Liquidi"
+        },
+        {
+          "id": 6,
+          "label": "Deodorante stick",
+          "section": "Liquidi"
+        },
+        {
+          "id": 7,
+          "label": "Crema viso mini",
+          "section": "Liquidi"
+        },
+        {
+          "id": 8,
+          "label": "Cambio completo",
+          "section": "Vestiti"
+        },
+        {
+          "id": 9,
+          "label": "Intimo ×2",
+          "section": "Vestiti"
+        },
+        {
+          "id": 10,
+          "label": "Felpa / strato caldo (da indossare)",
+          "section": "Vestiti"
+        },
+        {
+          "id": 11,
+          "label": "Caricabatterie + power bank (in cabina)",
+          "section": "Tech",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Auricolari",
+          "section": "Tech"
+        },
+        {
+          "id": 13,
+          "label": "Farmaci personali",
+          "section": "Extra",
+          "required": true
+        },
+        {
+          "id": 14,
+          "label": "Snack",
+          "section": "Extra"
+        },
+        {
+          "id": 15,
+          "label": "Borraccia vuota (riempire dopo i controlli)",
+          "section": "Extra"
+        }
+      ]
+    },
+    {
+      "id": "roadtrip-auto",
+      "title": "Roadtrip in auto",
+      "sub": "Viaggio su strada · più giorni",
+      "glyph": "🚗",
+      "gradient": [
+        "#F4C088",
+        "#E8A87C"
+      ],
+      "accent": "#E8A87C",
+      "categoryMeta": {
+        "id": "viaggio",
+        "name": "Viaggio",
+        "glyph": "✈️",
+        "gradient": [
+          "#F4C088",
+          "#E8A87C"
+        ],
+        "accent": "#E8A87C"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Patente + libretto",
+          "section": "Auto",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Assicurazione + bollino",
+          "section": "Auto",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Controllo gomme e pressione",
+          "section": "Auto",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Controllo olio e liquidi",
+          "section": "Auto"
+        },
+        {
+          "id": 5,
+          "label": "Triangolo + giubbotto rifrangente",
+          "section": "Auto",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Ruota di scorta / kit gonfiaggio",
+          "section": "Auto"
+        },
+        {
+          "id": 7,
+          "label": "Navigatore / mappe offline",
+          "section": "Auto"
+        },
+        {
+          "id": 8,
+          "label": "Supporto telefono + caricatore auto",
+          "section": "Auto"
+        },
+        {
+          "id": 9,
+          "label": "Acqua + snack",
+          "section": "A bordo"
+        },
+        {
+          "id": 10,
+          "label": "Caffè in thermos",
+          "section": "A bordo"
+        },
+        {
+          "id": 11,
+          "label": "Playlist / podcast offline",
+          "section": "A bordo"
+        },
+        {
+          "id": 12,
+          "label": "Cuscino da viaggio",
+          "section": "A bordo"
+        },
+        {
+          "id": 13,
+          "label": "Sacchetti per rifiuti",
+          "section": "A bordo"
+        },
+        {
+          "id": 14,
+          "label": "Salviette + igienizzante",
+          "section": "A bordo"
+        },
+        {
+          "id": 15,
+          "label": "Kit pronto soccorso",
+          "section": "Sicurezza",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Power bank",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 17,
+          "label": "Contanti per pedaggi/parcheggi",
+          "section": "Sicurezza"
+        }
+      ]
+    },
+    {
+      "id": "settimana-bianca",
+      "title": "Settimana bianca",
+      "sub": "Sci · 7 giorni in montagna",
+      "glyph": "⛷️",
+      "gradient": [
+        "#9BC4D6",
+        "#5F93AE"
+      ],
+      "accent": "#5F93AE",
+      "categoryMeta": {
+        "id": "viaggio",
+        "name": "Viaggio",
+        "glyph": "✈️",
+        "gradient": [
+          "#F4C088",
+          "#E8A87C"
+        ],
+        "accent": "#E8A87C"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Skipass / voucher",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Documenti + tessera sanitaria",
+          "section": "Documenti",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Assicurazione sci",
+          "section": "Documenti"
+        },
+        {
+          "id": 4,
+          "label": "Sci / snowboard + scarponi",
+          "section": "Attrezzatura",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Casco",
+          "section": "Attrezzatura",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Maschera + occhiali",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 7,
+          "label": "Guanti caldi ×2",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 8,
+          "label": "Giacca da sci",
+          "section": "Vestiario"
+        },
+        {
+          "id": 9,
+          "label": "Pantaloni da sci",
+          "section": "Vestiario"
+        },
+        {
+          "id": 10,
+          "label": "Intimo termico ×3",
+          "section": "Vestiario"
+        },
+        {
+          "id": 11,
+          "label": "Calze da sci ×4",
+          "section": "Vestiario"
+        },
+        {
+          "id": 12,
+          "label": "Pile / midlayer",
+          "section": "Vestiario"
+        },
+        {
+          "id": 13,
+          "label": "Scaldacollo / buff",
+          "section": "Vestiario"
+        },
+        {
+          "id": 14,
+          "label": "Doposci / scarpe calde",
+          "section": "Vestiario"
+        },
+        {
+          "id": 15,
+          "label": "Crema solare + burrocacao SPF",
+          "section": "Salute",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Crema mani idratante",
+          "section": "Salute"
+        },
+        {
+          "id": 17,
+          "label": "Scaldamani usa e getta",
+          "section": "Extra"
+        },
+        {
+          "id": 18,
+          "label": "Borraccia termica",
+          "section": "Extra"
+        }
+      ]
+    },
+    {
+      "id": "pulizie-settimanali",
+      "title": "Pulizie settimanali",
+      "sub": "Casa in ordine · ogni settimana",
+      "glyph": "🧹",
+      "gradient": [
+        "#9BC4D6",
+        "#5F93AE"
+      ],
+      "accent": "#5F93AE",
+      "categoryMeta": {
+        "id": "casa",
+        "name": "Casa",
+        "glyph": "🏠",
+        "gradient": [
+          "#9BC4D6",
+          "#5F93AE"
+        ],
+        "accent": "#5F93AE"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Cambiare lenzuola e federe",
+          "section": "Camere"
+        },
+        {
+          "id": 2,
+          "label": "Spolverare superfici e mensole",
+          "section": "Camere"
+        },
+        {
+          "id": 3,
+          "label": "Aspirare / lavare pavimenti",
+          "section": "Camere"
+        },
+        {
+          "id": 4,
+          "label": "Svuotare cestini",
+          "section": "Camere"
+        },
+        {
+          "id": 5,
+          "label": "Pulire piano cottura e fornelli",
+          "section": "Cucina"
+        },
+        {
+          "id": 6,
+          "label": "Pulire lavello e rubinetto",
+          "section": "Cucina"
+        },
+        {
+          "id": 7,
+          "label": "Pulire interno microonde",
+          "section": "Cucina"
+        },
+        {
+          "id": 8,
+          "label": "Controllare/buttare cibo scaduto in frigo",
+          "section": "Cucina"
+        },
+        {
+          "id": 9,
+          "label": "Lavare e disinfettare WC",
+          "section": "Bagno"
+        },
+        {
+          "id": 10,
+          "label": "Pulire lavandino e specchio",
+          "section": "Bagno"
+        },
+        {
+          "id": 11,
+          "label": "Pulire box doccia / vasca",
+          "section": "Bagno"
+        },
+        {
+          "id": 12,
+          "label": "Cambiare asciugamani",
+          "section": "Bagno"
+        },
+        {
+          "id": 13,
+          "label": "Fare il bucato",
+          "section": "Routine"
+        },
+        {
+          "id": 14,
+          "label": "Stendere / piegare",
+          "section": "Routine"
+        },
+        {
+          "id": 15,
+          "label": "Portare fuori la spazzatura",
+          "section": "Routine"
+        },
+        {
+          "id": 16,
+          "label": "Innaffiare le piante",
+          "section": "Routine"
+        }
+      ]
+    },
+    {
+      "id": "grandi-pulizie",
+      "title": "Grandi pulizie",
+      "sub": "Cambio di stagione · a fondo",
+      "glyph": "🧽",
+      "gradient": [
+        "#9BC4D6",
+        "#5F93AE"
+      ],
+      "accent": "#5F93AE",
+      "categoryMeta": {
+        "id": "casa",
+        "name": "Casa",
+        "glyph": "🏠",
+        "gradient": [
+          "#9BC4D6",
+          "#5F93AE"
+        ],
+        "accent": "#5F93AE"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Lavare tende e tessili",
+          "section": "Profondo"
+        },
+        {
+          "id": 2,
+          "label": "Pulire vetri e finestre",
+          "section": "Profondo"
+        },
+        {
+          "id": 3,
+          "label": "Spolverare lampadari e luci",
+          "section": "Profondo"
+        },
+        {
+          "id": 4,
+          "label": "Pulire battiscopa e cornici",
+          "section": "Profondo"
+        },
+        {
+          "id": 5,
+          "label": "Sgrassare forno",
+          "section": "Cucina"
+        },
+        {
+          "id": 6,
+          "label": "Sbrinare e pulire frigo/freezer",
+          "section": "Cucina"
+        },
+        {
+          "id": 7,
+          "label": "Pulire pensili dentro e fuori",
+          "section": "Cucina"
+        },
+        {
+          "id": 8,
+          "label": "Decalcificare bollitore/macchina caffè",
+          "section": "Cucina"
+        },
+        {
+          "id": 9,
+          "label": "Lavare piastrelle e fughe bagno",
+          "section": "Bagno"
+        },
+        {
+          "id": 10,
+          "label": "Decalcificare rubinetti e soffione",
+          "section": "Bagno"
+        },
+        {
+          "id": 11,
+          "label": "Pulire armadietti",
+          "section": "Bagno"
+        },
+        {
+          "id": 12,
+          "label": "Ruotare/arieggiare materassi",
+          "section": "Camere"
+        },
+        {
+          "id": 13,
+          "label": "Riordinare e svuotare armadi",
+          "section": "Camere"
+        },
+        {
+          "id": 14,
+          "label": "Cambio guardaroba stagionale",
+          "section": "Camere"
+        },
+        {
+          "id": 15,
+          "label": "Pulire dietro/sotto i mobili",
+          "section": "Camere"
+        }
+      ]
+    },
+    {
+      "id": "trasloco",
+      "title": "Trasloco",
+      "sub": "Cambio casa · senza stress",
+      "glyph": "📦",
+      "gradient": [
+        "#9BC4D6",
+        "#5F93AE"
+      ],
+      "accent": "#5F93AE",
+      "categoryMeta": {
+        "id": "casa",
+        "name": "Casa",
+        "glyph": "🏠",
+        "gradient": [
+          "#9BC4D6",
+          "#5F93AE"
+        ],
+        "accent": "#5F93AE"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Disdire/trasferire utenze (luce, gas, internet)",
+          "section": "Burocrazia",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Cambio di residenza",
+          "section": "Burocrazia",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Cambio indirizzo (banca, posta, abbonamenti)",
+          "section": "Burocrazia"
+        },
+        {
+          "id": 4,
+          "label": "Prenotare ditta traslochi / furgone",
+          "section": "Logistica",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Prenotare permesso sosta/ZTL",
+          "section": "Logistica"
+        },
+        {
+          "id": 6,
+          "label": "Scatoloni + nastro + pennarelli",
+          "section": "Imballaggio",
+          "required": true
+        },
+        {
+          "id": 7,
+          "label": "Pluriball / carta per fragili",
+          "section": "Imballaggio"
+        },
+        {
+          "id": 8,
+          "label": "Etichettare scatole per stanza",
+          "section": "Imballaggio"
+        },
+        {
+          "id": 9,
+          "label": "Foto del montaggio mobili",
+          "section": "Imballaggio"
+        },
+        {
+          "id": 10,
+          "label": "Scatola \"prima notte\" (essenziali)",
+          "section": "Essenziali",
+          "required": true
+        },
+        {
+          "id": 11,
+          "label": "Documenti e valori con sé",
+          "section": "Essenziali",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Caricabatterie e cavi a portata",
+          "section": "Essenziali"
+        },
+        {
+          "id": 13,
+          "label": "Kit pulizie per vecchia/nuova casa",
+          "section": "Essenziali"
+        },
+        {
+          "id": 14,
+          "label": "Restituire chiavi vecchia casa",
+          "section": "Chiusura"
+        },
+        {
+          "id": 15,
+          "label": "Lettura contatori (foto)",
+          "section": "Chiusura",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Aggiornare navigatori/consegne",
+          "section": "Chiusura"
+        }
+      ]
+    },
+    {
+      "id": "chiudere-casa-vacanze",
+      "title": "Chiudere casa",
+      "sub": "Prima di partire · sicurezza",
+      "glyph": "🔒",
+      "gradient": [
+        "#9BC4D6",
+        "#5F93AE"
+      ],
+      "accent": "#5F93AE",
+      "categoryMeta": {
+        "id": "casa",
+        "name": "Casa",
+        "glyph": "🏠",
+        "gradient": [
+          "#9BC4D6",
+          "#5F93AE"
+        ],
+        "accent": "#5F93AE"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Svuotare frigo da deperibili",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Buttare la spazzatura",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Lavastoviglie/lavatrice vuote e aperte",
+          "section": "Cucina"
+        },
+        {
+          "id": 4,
+          "label": "Chiudere gas e acqua",
+          "section": "Sicurezza",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Staccare prese non necessarie",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 6,
+          "label": "Spegnere boiler/caldaia (o eco)",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 7,
+          "label": "Chiudere finestre e tapparelle",
+          "section": "Sicurezza",
+          "required": true
+        },
+        {
+          "id": 8,
+          "label": "Attivare allarme",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 9,
+          "label": "Lasciare chiavi a vicino/persona fidata",
+          "section": "Extra"
+        },
+        {
+          "id": 10,
+          "label": "Timer luci / luce d'ingresso",
+          "section": "Extra"
+        },
+        {
+          "id": 11,
+          "label": "Avvisare il condominio se serve",
+          "section": "Extra"
+        },
+        {
+          "id": 12,
+          "label": "Innaffiare/affidare piante",
+          "section": "Extra"
+        },
+        {
+          "id": 13,
+          "label": "Affidare animali",
+          "section": "Extra",
+          "required": true
+        },
+        {
+          "id": 14,
+          "label": "Controllo finale porta d'ingresso",
+          "section": "Sicurezza",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "borsa-cambio-neonato",
+      "title": "Borsa cambio neonato",
+      "sub": "Uscita giornaliera · 0-12 mesi",
+      "glyph": "🍼",
+      "gradient": [
+        "#F2C5D9",
+        "#D88FB5"
+      ],
+      "accent": "#D88FB5",
+      "categoryMeta": {
+        "id": "family",
+        "name": "Famiglia",
+        "glyph": "👨‍👩‍👧",
+        "gradient": [
+          "#F2C5D9",
+          "#D88FB5"
+        ],
+        "accent": "#D88FB5"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Pannolini ×4-5",
+          "section": "Cambio",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Salviette",
+          "section": "Cambio",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Crema cambio",
+          "section": "Cambio"
+        },
+        {
+          "id": 4,
+          "label": "Fasciatoio da viaggio",
+          "section": "Cambio"
+        },
+        {
+          "id": 5,
+          "label": "Sacchetti per pannolini usati",
+          "section": "Cambio"
+        },
+        {
+          "id": 6,
+          "label": "Body di ricambio ×2",
+          "section": "Vestiti"
+        },
+        {
+          "id": 7,
+          "label": "Tutina di ricambio",
+          "section": "Vestiti"
+        },
+        {
+          "id": 8,
+          "label": "Calzini + cappellino",
+          "section": "Vestiti"
+        },
+        {
+          "id": 9,
+          "label": "Bavaglini ×2",
+          "section": "Vestiti"
+        },
+        {
+          "id": 10,
+          "label": "Biberon / acqua",
+          "section": "Pappa"
+        },
+        {
+          "id": 11,
+          "label": "Latte in polvere dosato",
+          "section": "Pappa"
+        },
+        {
+          "id": 12,
+          "label": "Ciuccio + portaciuccio",
+          "section": "Pappa"
+        },
+        {
+          "id": 13,
+          "label": "Snack/omogeneizzato (se svezzato)",
+          "section": "Pappa"
+        },
+        {
+          "id": 14,
+          "label": "Copertina leggera",
+          "section": "Extra"
+        },
+        {
+          "id": 15,
+          "label": "Gioco / sonaglio",
+          "section": "Extra"
+        },
+        {
+          "id": 16,
+          "label": "Garze + soluzione fisiologica",
+          "section": "Salute"
+        },
+        {
+          "id": 17,
+          "label": "Termometro",
+          "section": "Salute"
+        },
+        {
+          "id": 18,
+          "label": "Cambio maglietta per il genitore",
+          "section": "Extra"
+        }
+      ]
+    },
+    {
+      "id": "rientro-a-scuola",
+      "title": "Rientro a scuola",
+      "sub": "Inizio anno · liste pronte",
+      "glyph": "🎒",
+      "gradient": [
+        "#F2C5D9",
+        "#D88FB5"
+      ],
+      "accent": "#D88FB5",
+      "categoryMeta": {
+        "id": "family",
+        "name": "Famiglia",
+        "glyph": "👨‍👩‍👧",
+        "gradient": [
+          "#F2C5D9",
+          "#D88FB5"
+        ],
+        "accent": "#D88FB5"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Zaino",
+          "section": "Corredo",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Astuccio completo (penne, matite, gomma)",
+          "section": "Corredo",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Diario / agenda",
+          "section": "Corredo"
+        },
+        {
+          "id": 4,
+          "label": "Quaderni a righe e quadretti",
+          "section": "Corredo"
+        },
+        {
+          "id": 5,
+          "label": "Quaderni ad anelli + ricambi",
+          "section": "Corredo"
+        },
+        {
+          "id": 6,
+          "label": "Righello, squadra, compasso",
+          "section": "Corredo"
+        },
+        {
+          "id": 7,
+          "label": "Colori (pastelli, pennarelli)",
+          "section": "Corredo"
+        },
+        {
+          "id": 8,
+          "label": "Copertine + etichette nome",
+          "section": "Corredo"
+        },
+        {
+          "id": 9,
+          "label": "Libri di testo",
+          "section": "Libri",
+          "required": true
+        },
+        {
+          "id": 10,
+          "label": "Dizionari",
+          "section": "Libri"
+        },
+        {
+          "id": 11,
+          "label": "Grembiule / cambio",
+          "section": "Abbigliamento"
+        },
+        {
+          "id": 12,
+          "label": "Scarpe da ginnastica",
+          "section": "Abbigliamento"
+        },
+        {
+          "id": 13,
+          "label": "Tuta per educazione fisica",
+          "section": "Abbigliamento"
+        },
+        {
+          "id": 14,
+          "label": "Borraccia",
+          "section": "Mensa"
+        },
+        {
+          "id": 15,
+          "label": "Porta-merenda",
+          "section": "Mensa"
+        },
+        {
+          "id": 16,
+          "label": "Modulistica iscrizione/deleghe firmate",
+          "section": "Burocrazia",
+          "required": true
+        },
+        {
+          "id": 17,
+          "label": "Certificato medico sport",
+          "section": "Burocrazia"
+        }
+      ]
+    },
+    {
+      "id": "borsa-palestra",
+      "title": "Borsa palestra",
+      "sub": "Allenamento · pronta sempre",
+      "glyph": "🏋️",
+      "gradient": [
+        "#A7D7C5",
+        "#5FA38C"
+      ],
+      "accent": "#5FA38C",
+      "categoryMeta": {
+        "id": "sport",
+        "name": "Sport & Benessere",
+        "glyph": "🏋️",
+        "gradient": [
+          "#A7D7C5",
+          "#5FA38C"
+        ],
+        "accent": "#5FA38C"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Maglietta tecnica",
+          "section": "Abbigliamento",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Pantaloncini / leggings",
+          "section": "Abbigliamento",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Calze sportive",
+          "section": "Abbigliamento"
+        },
+        {
+          "id": 4,
+          "label": "Intimo di ricambio",
+          "section": "Abbigliamento"
+        },
+        {
+          "id": 5,
+          "label": "Scarpe da allenamento",
+          "section": "Abbigliamento",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Asciugamano piccolo",
+          "section": "Igiene"
+        },
+        {
+          "id": 7,
+          "label": "Asciugamano doccia",
+          "section": "Igiene"
+        },
+        {
+          "id": 8,
+          "label": "Ciabatte",
+          "section": "Igiene"
+        },
+        {
+          "id": 9,
+          "label": "Bagnoschiuma + shampoo",
+          "section": "Igiene"
+        },
+        {
+          "id": 10,
+          "label": "Deodorante",
+          "section": "Igiene"
+        },
+        {
+          "id": 11,
+          "label": "Borraccia / shaker",
+          "section": "Allenamento",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Guanti / cinture (se serve)",
+          "section": "Allenamento"
+        },
+        {
+          "id": 13,
+          "label": "Auricolari",
+          "section": "Allenamento"
+        },
+        {
+          "id": 14,
+          "label": "Cardiofrequenzimetro / smartwatch",
+          "section": "Allenamento"
+        },
+        {
+          "id": 15,
+          "label": "Tessera / app accesso",
+          "section": "Extra",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Lucchetto armadietto",
+          "section": "Extra"
+        },
+        {
+          "id": 17,
+          "label": "Snack proteico post-workout",
+          "section": "Extra"
+        }
+      ]
+    },
+    {
+      "id": "campeggio-tenda",
+      "title": "Campeggio in tenda",
+      "sub": "Natura · 2-3 notti",
+      "glyph": "⛺",
+      "gradient": [
+        "#9DC2A2",
+        "#5A8A6B"
+      ],
+      "accent": "#5A8A6B",
+      "categoryMeta": {
+        "id": "outdoor",
+        "name": "Outdoor",
+        "glyph": "🏕️",
+        "gradient": [
+          "#9DC2A2",
+          "#5A8A6B"
+        ],
+        "accent": "#5A8A6B"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Tenda + picchetti + martelletto",
+          "section": "Campo",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Telo sottotenda",
+          "section": "Campo"
+        },
+        {
+          "id": 3,
+          "label": "Sacco a pelo",
+          "section": "Campo",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Materassino / brandina",
+          "section": "Campo"
+        },
+        {
+          "id": 5,
+          "label": "Cuscino gonfiabile",
+          "section": "Campo"
+        },
+        {
+          "id": 6,
+          "label": "Lampada frontale + ricambi",
+          "section": "Campo",
+          "required": true
+        },
+        {
+          "id": 7,
+          "label": "Lanterna da campo",
+          "section": "Campo"
+        },
+        {
+          "id": 8,
+          "label": "Fornello + cartuccia gas",
+          "section": "Cucina"
+        },
+        {
+          "id": 9,
+          "label": "Pentolino + stoviglie riutilizzabili",
+          "section": "Cucina"
+        },
+        {
+          "id": 10,
+          "label": "Accendino + fiammiferi",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 11,
+          "label": "Borraccia + tanica acqua",
+          "section": "Cucina"
+        },
+        {
+          "id": 12,
+          "label": "Cibo + snack",
+          "section": "Cucina"
+        },
+        {
+          "id": 13,
+          "label": "Sacchi spazzatura",
+          "section": "Cucina"
+        },
+        {
+          "id": 14,
+          "label": "Coltellino multiuso",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 15,
+          "label": "Corda / paracord",
+          "section": "Attrezzatura"
+        },
+        {
+          "id": 16,
+          "label": "Kit pronto soccorso",
+          "section": "Sicurezza",
+          "required": true
+        },
+        {
+          "id": 17,
+          "label": "Spray anti-insetti",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 18,
+          "label": "Crema solare",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 19,
+          "label": "Power bank",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 20,
+          "label": "Salviette + carta igienica",
+          "section": "Igiene"
+        }
+      ]
+    },
+    {
+      "id": "shot-list-matrimonio",
+      "title": "Shot list matrimonio",
+      "sub": "Servizio fotografico · scatti chiave",
+      "glyph": "💍",
+      "gradient": [
+        "#2D44C4",
+        "#4863E8"
+      ],
+      "accent": "#4863E8",
+      "categoryMeta": {
+        "id": "fotografia",
+        "name": "Fotografia",
+        "glyph": "📷",
+        "gradient": [
+          "#2D44C4",
+          "#4863E8"
+        ],
+        "accent": "#4863E8"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Dettagli abito appeso",
+          "section": "Preparativi sposa"
+        },
+        {
+          "id": 2,
+          "label": "Scarpe, anello, accessori",
+          "section": "Preparativi sposa"
+        },
+        {
+          "id": 3,
+          "label": "Bouquet",
+          "section": "Preparativi sposa"
+        },
+        {
+          "id": 4,
+          "label": "Trucco e acconciatura in corso",
+          "section": "Preparativi sposa"
+        },
+        {
+          "id": 5,
+          "label": "Sposa che indossa l'abito",
+          "section": "Preparativi sposa",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Ritratto sposa pronta",
+          "section": "Preparativi sposa"
+        },
+        {
+          "id": 7,
+          "label": "Sposo che si veste",
+          "section": "Preparativi sposo"
+        },
+        {
+          "id": 8,
+          "label": "Dettagli (orologio, gemelli, cravatta)",
+          "section": "Preparativi sposo"
+        },
+        {
+          "id": 9,
+          "label": "Ritratto sposo con testimoni",
+          "section": "Preparativi sposo"
+        },
+        {
+          "id": 10,
+          "label": "Arrivo degli sposi",
+          "section": "Cerimonia"
+        },
+        {
+          "id": 11,
+          "label": "Ingresso della sposa",
+          "section": "Cerimonia",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Scambio degli anelli",
+          "section": "Cerimonia",
+          "required": true
+        },
+        {
+          "id": 13,
+          "label": "Il bacio",
+          "section": "Cerimonia",
+          "required": true
+        },
+        {
+          "id": 14,
+          "label": "Firme dei registri",
+          "section": "Cerimonia"
+        },
+        {
+          "id": 15,
+          "label": "Uscita e lancio (riso/coriandoli)",
+          "section": "Cerimonia"
+        },
+        {
+          "id": 16,
+          "label": "Ritratti di coppia",
+          "section": "Ritratti",
+          "required": true
+        },
+        {
+          "id": 17,
+          "label": "Foto con i genitori",
+          "section": "Ritratti"
+        },
+        {
+          "id": 18,
+          "label": "Foto di gruppo famiglie",
+          "section": "Ritratti"
+        },
+        {
+          "id": 19,
+          "label": "Foto con testimoni/amici",
+          "section": "Ritratti"
+        },
+        {
+          "id": 20,
+          "label": "Allestimento sala vuota",
+          "section": "Ricevimento"
+        },
+        {
+          "id": 21,
+          "label": "Mise en place e centrotavola",
+          "section": "Ricevimento"
+        },
+        {
+          "id": 22,
+          "label": "Torta nuziale",
+          "section": "Ricevimento"
+        },
+        {
+          "id": 23,
+          "label": "Taglio della torta",
+          "section": "Ricevimento",
+          "required": true
+        },
+        {
+          "id": 24,
+          "label": "Primo ballo",
+          "section": "Ricevimento",
+          "required": true
+        },
+        {
+          "id": 25,
+          "label": "Brindisi e discorsi",
+          "section": "Ricevimento"
+        },
+        {
+          "id": 26,
+          "label": "Pista da ballo / festa",
+          "section": "Ricevimento"
+        }
+      ]
+    },
+    {
+      "id": "gear-fotografo",
+      "title": "Gear fotografo",
+      "sub": "Check attrezzatura · prima dello shooting",
+      "glyph": "📷",
+      "gradient": [
+        "#2D44C4",
+        "#4863E8"
+      ],
+      "accent": "#4863E8",
+      "categoryMeta": {
+        "id": "fotografia",
+        "name": "Fotografia",
+        "glyph": "📷",
+        "gradient": [
+          "#2D44C4",
+          "#4863E8"
+        ],
+        "accent": "#4863E8"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Corpo macchina principale",
+          "section": "Corpi & ottiche",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Corpo macchina di backup",
+          "section": "Corpi & ottiche",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Obiettivo 24-70",
+          "section": "Corpi & ottiche"
+        },
+        {
+          "id": 4,
+          "label": "Obiettivo 70-200",
+          "section": "Corpi & ottiche"
+        },
+        {
+          "id": 5,
+          "label": "Fisso luminoso (35/50/85)",
+          "section": "Corpi & ottiche"
+        },
+        {
+          "id": 6,
+          "label": "Batterie cariche ×4",
+          "section": "Energia & schede",
+          "required": true
+        },
+        {
+          "id": 7,
+          "label": "Caricabatterie",
+          "section": "Energia & schede"
+        },
+        {
+          "id": 8,
+          "label": "Power bank",
+          "section": "Energia & schede"
+        },
+        {
+          "id": 9,
+          "label": "Schede di memoria formattate ×3",
+          "section": "Energia & schede",
+          "required": true
+        },
+        {
+          "id": 10,
+          "label": "Lettore schede + scheda di backup",
+          "section": "Energia & schede"
+        },
+        {
+          "id": 11,
+          "label": "Flash / speedlite",
+          "section": "Luci"
+        },
+        {
+          "id": 12,
+          "label": "Trigger + pile flash",
+          "section": "Luci"
+        },
+        {
+          "id": 13,
+          "label": "Diffusore / softbox portatile",
+          "section": "Luci"
+        },
+        {
+          "id": 14,
+          "label": "Treppiede / monopiede",
+          "section": "Supporti"
+        },
+        {
+          "id": 15,
+          "label": "Stabilizzatore / gimbal",
+          "section": "Supporti"
+        },
+        {
+          "id": 16,
+          "label": "Panno pulizia lenti + pennello",
+          "section": "Supporti"
+        },
+        {
+          "id": 17,
+          "label": "Pioggia/cover antipioggia",
+          "section": "Supporti"
+        },
+        {
+          "id": 18,
+          "label": "Contratto firmato + liberatorie",
+          "section": "Logistica",
+          "required": true
+        },
+        {
+          "id": 19,
+          "label": "Indirizzo e orari location",
+          "section": "Logistica"
+        },
+        {
+          "id": 20,
+          "label": "Borsa/zaino fotografico",
+          "section": "Logistica"
+        }
+      ]
+    },
+    {
+      "id": "servizio-studio",
+      "title": "Servizio in studio",
+      "sub": "Ritratto / newborn · setup",
+      "glyph": "🎞️",
+      "gradient": [
+        "#2D44C4",
+        "#4863E8"
+      ],
+      "accent": "#4863E8",
+      "categoryMeta": {
+        "id": "fotografia",
+        "name": "Fotografia",
+        "glyph": "📷",
+        "gradient": [
+          "#2D44C4",
+          "#4863E8"
+        ],
+        "accent": "#4863E8"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Riscaldare lo studio (newborn 26-28°C)",
+          "section": "Set",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "White noise / musica soft",
+          "section": "Set"
+        },
+        {
+          "id": 3,
+          "label": "Fondali preparati",
+          "section": "Set",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Pose-bag / poltrona a sacco",
+          "section": "Set"
+        },
+        {
+          "id": 5,
+          "label": "Wrap, fasce e cappellini",
+          "section": "Set"
+        },
+        {
+          "id": 6,
+          "label": "Cesti e props puliti",
+          "section": "Set"
+        },
+        {
+          "id": 7,
+          "label": "Luce continua / flash testati",
+          "section": "Luci",
+          "required": true
+        },
+        {
+          "id": 8,
+          "label": "Modificatori (softbox/ombrello)",
+          "section": "Luci"
+        },
+        {
+          "id": 9,
+          "label": "Esposimetro / test scatto",
+          "section": "Luci"
+        },
+        {
+          "id": 10,
+          "label": "Corpo macchina + ottica ritratto",
+          "section": "Camera",
+          "required": true
+        },
+        {
+          "id": 11,
+          "label": "Batterie + schede formattate",
+          "section": "Camera",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Salviette e teli puliti",
+          "section": "Igiene"
+        },
+        {
+          "id": 13,
+          "label": "Igienizzante mani",
+          "section": "Igiene"
+        },
+        {
+          "id": 14,
+          "label": "Cambio teli di scorta",
+          "section": "Igiene"
+        },
+        {
+          "id": 15,
+          "label": "Liberatoria d'uso immagini",
+          "section": "Logistica",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Listino / pacchetti stampe pronti",
+          "section": "Logistica"
+        }
+      ]
+    },
+    {
+      "id": "turnover-affitto",
+      "title": "Turnover affitto breve",
+      "sub": "Tra un ospite e l'altro · check-out → check-in",
+      "glyph": "🧴",
+      "gradient": [
+        "#8AA8D9",
+        "#5A7AB8"
+      ],
+      "accent": "#5A7AB8",
+      "categoryMeta": {
+        "id": "affitti-brevi",
+        "name": "Affitti brevi",
+        "glyph": "🏘️",
+        "gradient": [
+          "#8AA8D9",
+          "#5A7AB8"
+        ],
+        "accent": "#5A7AB8"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Controllo danni / oggetti dimenticati",
+          "section": "Generale",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Verifica inventario e dotazioni",
+          "section": "Generale"
+        },
+        {
+          "id": 3,
+          "label": "Foto eventuali problemi",
+          "section": "Generale"
+        },
+        {
+          "id": 4,
+          "label": "Cambio lenzuola e federe",
+          "section": "Generale",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Cambio asciugamani",
+          "section": "Bagno",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Disinfettare WC, lavandino, doccia",
+          "section": "Bagno",
+          "required": true
+        },
+        {
+          "id": 7,
+          "label": "Pulire specchi",
+          "section": "Bagno"
+        },
+        {
+          "id": 8,
+          "label": "Sgrassare cucina e piano cottura",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 9,
+          "label": "Svuotare e pulire frigo",
+          "section": "Cucina"
+        },
+        {
+          "id": 10,
+          "label": "Lavare stoviglie / svuotare lavastoviglie",
+          "section": "Cucina"
+        },
+        {
+          "id": 11,
+          "label": "Aspirare e lavare pavimenti",
+          "section": "Generale",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Spolverare superfici",
+          "section": "Generale"
+        },
+        {
+          "id": 13,
+          "label": "Svuotare tutti i cestini",
+          "section": "Generale",
+          "required": true
+        },
+        {
+          "id": 14,
+          "label": "Arieggiare le stanze",
+          "section": "Generale"
+        },
+        {
+          "id": 15,
+          "label": "Restock carta igienica / fazzoletti",
+          "section": "Restock",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Restock sapone, shampoo, detersivo",
+          "section": "Restock"
+        },
+        {
+          "id": 17,
+          "label": "Restock caffè, tè, kit benvenuto",
+          "section": "Restock"
+        },
+        {
+          "id": 18,
+          "label": "Controllo Wi-Fi e telecomandi",
+          "section": "Tech"
+        },
+        {
+          "id": 19,
+          "label": "Impostare termostato/clima",
+          "section": "Tech"
+        },
+        {
+          "id": 20,
+          "label": "Verifica chiavi / serratura smart",
+          "section": "Tech",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "kit-benvenuto",
+      "title": "Kit di benvenuto",
+      "sub": "Host · esperienza ospite",
+      "glyph": "🎁",
+      "gradient": [
+        "#8AA8D9",
+        "#5A7AB8"
+      ],
+      "accent": "#5A7AB8",
+      "categoryMeta": {
+        "id": "affitti-brevi",
+        "name": "Affitti brevi",
+        "glyph": "🏘️",
+        "gradient": [
+          "#8AA8D9",
+          "#5A7AB8"
+        ],
+        "accent": "#5A7AB8"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Messaggio/lettera di benvenuto",
+          "section": "Accoglienza",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Istruzioni Wi-Fi (rete + password)",
+          "section": "Accoglienza",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Guida casa (regole, check-out, contatti)",
+          "section": "Accoglienza",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Numeri utili / emergenze",
+          "section": "Accoglienza"
+        },
+        {
+          "id": 5,
+          "label": "Consigli su zona (ristoranti, attrazioni)",
+          "section": "Accoglienza"
+        },
+        {
+          "id": 6,
+          "label": "Acqua di benvenuto",
+          "section": "Cortesie"
+        },
+        {
+          "id": 7,
+          "label": "Caffè, tè, zucchero",
+          "section": "Cortesie"
+        },
+        {
+          "id": 8,
+          "label": "Snack / prodotto locale",
+          "section": "Cortesie"
+        },
+        {
+          "id": 9,
+          "label": "Set cortesia bagno (sapone, shampoo)",
+          "section": "Cortesie"
+        },
+        {
+          "id": 10,
+          "label": "Carta igienica di scorta",
+          "section": "Forniture",
+          "required": true
+        },
+        {
+          "id": 11,
+          "label": "Asciugamani extra",
+          "section": "Forniture"
+        },
+        {
+          "id": 12,
+          "label": "Detersivo piatti + spugna",
+          "section": "Forniture"
+        },
+        {
+          "id": 13,
+          "label": "Adattatori / caricatori in prestito",
+          "section": "Forniture"
+        },
+        {
+          "id": 14,
+          "label": "Kit pronto soccorso base",
+          "section": "Sicurezza"
+        },
+        {
+          "id": 15,
+          "label": "Istruzioni raccolta differenziata",
+          "section": "Sicurezza"
+        }
+      ]
+    },
+    {
+      "id": "apertura-locale",
+      "title": "Apertura locale",
+      "sub": "Ristorante / bar · routine mattutina",
+      "glyph": "🌅",
+      "gradient": [
+        "#E8A87C",
+        "#C9743D"
+      ],
+      "accent": "#C9743D",
+      "categoryMeta": {
+        "id": "ristorazione",
+        "name": "Ristorazione",
+        "glyph": "🍽️",
+        "gradient": [
+          "#E8A87C",
+          "#C9743D"
+        ],
+        "accent": "#C9743D"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Disattivare allarme e accendere luci",
+          "section": "Apertura",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Sbloccare cassa e fondo cassa",
+          "section": "Apertura",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Accendere POS / sistema ordini",
+          "section": "Apertura",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Controllo temperature frigo/freezer",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Accendere attrezzature (forno, griglia)",
+          "section": "Cucina"
+        },
+        {
+          "id": 6,
+          "label": "Verifica scorte e prep del giorno",
+          "section": "Cucina"
+        },
+        {
+          "id": 7,
+          "label": "Controllo scadenze e FIFO",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 8,
+          "label": "Lavaggio mani + divise pulite",
+          "section": "Igiene",
+          "required": true
+        },
+        {
+          "id": 9,
+          "label": "Sanificare superfici e piani",
+          "section": "Igiene",
+          "required": true
+        },
+        {
+          "id": 10,
+          "label": "Apparecchiare tavoli",
+          "section": "Sala"
+        },
+        {
+          "id": 11,
+          "label": "Controllo bagni clienti puliti e riforniti",
+          "section": "Sala",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Lavagna/menu del giorno aggiornati",
+          "section": "Sala"
+        },
+        {
+          "id": 13,
+          "label": "Verifica prenotazioni del giorno",
+          "section": "Sala"
+        },
+        {
+          "id": 14,
+          "label": "Briefing con lo staff",
+          "section": "Staff"
+        },
+        {
+          "id": 15,
+          "label": "Controllo presenze turno",
+          "section": "Staff"
+        }
+      ]
+    },
+    {
+      "id": "chiusura-locale",
+      "title": "Chiusura locale",
+      "sub": "Ristorante / bar · fine servizio",
+      "glyph": "🌙",
+      "gradient": [
+        "#E8A87C",
+        "#C9743D"
+      ],
+      "accent": "#C9743D",
+      "categoryMeta": {
+        "id": "ristorazione",
+        "name": "Ristorazione",
+        "glyph": "🍽️",
+        "gradient": [
+          "#E8A87C",
+          "#C9743D"
+        ],
+        "accent": "#C9743D"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Conteggio cassa e chiusura POS",
+          "section": "Cassa",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Riporre incasso in cassaforte",
+          "section": "Cassa",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Report vendite del giorno",
+          "section": "Cassa"
+        },
+        {
+          "id": 4,
+          "label": "Spegnere e pulire attrezzature cucina",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Coprire/riporre alimenti (etichettati)",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Controllo chiusura frigo/freezer",
+          "section": "Cucina"
+        },
+        {
+          "id": 7,
+          "label": "Sgrassare piani e fornelli",
+          "section": "Cucina",
+          "required": true
+        },
+        {
+          "id": 8,
+          "label": "Lavare pavimenti cucina e sala",
+          "section": "Pulizie",
+          "required": true
+        },
+        {
+          "id": 9,
+          "label": "Svuotare tutti i rifiuti + differenziata",
+          "section": "Pulizie",
+          "required": true
+        },
+        {
+          "id": 10,
+          "label": "Pulire e disinfettare bagni",
+          "section": "Pulizie"
+        },
+        {
+          "id": 11,
+          "label": "Riordinare e pulire tavoli",
+          "section": "Sala"
+        },
+        {
+          "id": 12,
+          "label": "Ricaricare scorte per il giorno dopo",
+          "section": "Sala"
+        },
+        {
+          "id": 13,
+          "label": "Spegnere luci e attrezzature non necessarie",
+          "section": "Chiusura",
+          "required": true
+        },
+        {
+          "id": 14,
+          "label": "Chiudere gas e acqua",
+          "section": "Chiusura",
+          "required": true
+        },
+        {
+          "id": 15,
+          "label": "Attivare allarme e chiudere",
+          "section": "Chiusura",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "evento-aziendale",
+      "title": "Evento aziendale",
+      "sub": "Organizzazione · giorno dell'evento",
+      "glyph": "🎤",
+      "gradient": [
+        "#C9A7E8",
+        "#8E5FC4"
+      ],
+      "accent": "#8E5FC4",
+      "categoryMeta": {
+        "id": "eventi",
+        "name": "Eventi",
+        "glyph": "🎪",
+        "gradient": [
+          "#C9A7E8",
+          "#8E5FC4"
+        ],
+        "accent": "#8E5FC4"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Conferma numero partecipanti",
+          "section": "Pianificazione",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Scaletta / programma definitivo",
+          "section": "Pianificazione",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Conferma con fornitori (catering, AV)",
+          "section": "Pianificazione",
+          "required": true
+        },
+        {
+          "id": 4,
+          "label": "Lista contatti referenti",
+          "section": "Pianificazione"
+        },
+        {
+          "id": 5,
+          "label": "Badge / lista accrediti",
+          "section": "Accoglienza",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Reception e segnaletica",
+          "section": "Accoglienza"
+        },
+        {
+          "id": 7,
+          "label": "Guardaroba",
+          "section": "Accoglienza"
+        },
+        {
+          "id": 8,
+          "label": "Test microfoni e audio",
+          "section": "Tecnica",
+          "required": true
+        },
+        {
+          "id": 9,
+          "label": "Test proiettore / slide",
+          "section": "Tecnica",
+          "required": true
+        },
+        {
+          "id": 10,
+          "label": "Test connessione e streaming",
+          "section": "Tecnica"
+        },
+        {
+          "id": 11,
+          "label": "Prese e prolunghe",
+          "section": "Tecnica"
+        },
+        {
+          "id": 12,
+          "label": "Allestimento sala e palco",
+          "section": "Allestimento"
+        },
+        {
+          "id": 13,
+          "label": "Materiali brandizzati / gadget",
+          "section": "Allestimento"
+        },
+        {
+          "id": 14,
+          "label": "Catering e coffee break",
+          "section": "Allestimento"
+        },
+        {
+          "id": 15,
+          "label": "Acqua per relatori",
+          "section": "Allestimento"
+        },
+        {
+          "id": 16,
+          "label": "Kit emergenza (adattatori, nastro, pennarelli)",
+          "section": "Backup"
+        },
+        {
+          "id": 17,
+          "label": "Referente per imprevisti",
+          "section": "Backup",
+          "required": true
+        },
+        {
+          "id": 18,
+          "label": "Foto/video copertura",
+          "section": "Backup"
+        }
+      ]
+    },
+    {
+      "id": "stand-fiera",
+      "title": "Stand fiera",
+      "sub": "Allestimento espositivo · setup",
+      "glyph": "🏷️",
+      "gradient": [
+        "#C9A7E8",
+        "#8E5FC4"
+      ],
+      "accent": "#8E5FC4",
+      "categoryMeta": {
+        "id": "eventi",
+        "name": "Eventi",
+        "glyph": "🎪",
+        "gradient": [
+          "#C9A7E8",
+          "#8E5FC4"
+        ],
+        "accent": "#8E5FC4"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Pass espositore / accrediti",
+          "section": "Logistica",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Conferma metratura e posizione stand",
+          "section": "Logistica",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Documenti di trasporto materiali",
+          "section": "Logistica"
+        },
+        {
+          "id": 4,
+          "label": "Struttura / pareti espositive",
+          "section": "Allestimento",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Banner e grafiche brandizzate",
+          "section": "Allestimento"
+        },
+        {
+          "id": 6,
+          "label": "Illuminazione + prolunghe",
+          "section": "Allestimento"
+        },
+        {
+          "id": 7,
+          "label": "Monitor / demo prodotto",
+          "section": "Allestimento"
+        },
+        {
+          "id": 8,
+          "label": "Tavolo, sedie, sgabelli",
+          "section": "Allestimento"
+        },
+        {
+          "id": 9,
+          "label": "Espositori brochure / listini",
+          "section": "Allestimento"
+        },
+        {
+          "id": 10,
+          "label": "Gadget e materiale promozionale",
+          "section": "Materiali",
+          "required": true
+        },
+        {
+          "id": 11,
+          "label": "Biglietti da visita",
+          "section": "Materiali"
+        },
+        {
+          "id": 12,
+          "label": "Sistema raccolta lead / QR",
+          "section": "Materiali",
+          "required": true
+        },
+        {
+          "id": 13,
+          "label": "Acqua e snack per lo staff",
+          "section": "Staff"
+        },
+        {
+          "id": 14,
+          "label": "Divise / dress code team",
+          "section": "Staff"
+        },
+        {
+          "id": 15,
+          "label": "Turni presidio stand",
+          "section": "Staff"
+        },
+        {
+          "id": 16,
+          "label": "Kit emergenza (nastro, forbici, salviette)",
+          "section": "Backup"
+        },
+        {
+          "id": 17,
+          "label": "Power bank e caricatori",
+          "section": "Backup"
+        }
+      ]
+    },
+    {
+      "id": "pubblicazione-contenuto",
+      "title": "Pubblicazione contenuto",
+      "sub": "Video / social · prima di pubblicare",
+      "glyph": "🎬",
+      "gradient": [
+        "#7E8BD9",
+        "#4856C4"
+      ],
+      "accent": "#4856C4",
+      "categoryMeta": {
+        "id": "creator",
+        "name": "Creator & Lavoro",
+        "glyph": "🎬",
+        "gradient": [
+          "#7E8BD9",
+          "#4856C4"
+        ],
+        "accent": "#4856C4"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Montaggio finale rivisto",
+          "section": "Editing",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Controllo audio e livelli",
+          "section": "Editing",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Sottotitoli / didascalie",
+          "section": "Editing"
+        },
+        {
+          "id": 4,
+          "label": "Color grading coerente",
+          "section": "Editing"
+        },
+        {
+          "id": 5,
+          "label": "Export nella risoluzione giusta",
+          "section": "Editing",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Titolo ottimizzato",
+          "section": "Pubblicazione",
+          "required": true
+        },
+        {
+          "id": 7,
+          "label": "Descrizione + link",
+          "section": "Pubblicazione"
+        },
+        {
+          "id": 8,
+          "label": "Tag / hashtag",
+          "section": "Pubblicazione"
+        },
+        {
+          "id": 9,
+          "label": "Miniatura / cover",
+          "section": "Pubblicazione",
+          "required": true
+        },
+        {
+          "id": 10,
+          "label": "Capitoli / timestamp",
+          "section": "Pubblicazione"
+        },
+        {
+          "id": 11,
+          "label": "Anteprima link visibile",
+          "section": "Pubblicazione"
+        },
+        {
+          "id": 12,
+          "label": "Programmare orario di uscita",
+          "section": "Distribuzione"
+        },
+        {
+          "id": 13,
+          "label": "Preparare post di lancio social",
+          "section": "Distribuzione"
+        },
+        {
+          "id": 14,
+          "label": "Avvisare newsletter / community",
+          "section": "Distribuzione"
+        },
+        {
+          "id": 15,
+          "label": "Materiali sponsor / disclaimer",
+          "section": "Distribuzione"
+        },
+        {
+          "id": 16,
+          "label": "Backup del progetto",
+          "section": "Archivio",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "setup-podcast",
+      "title": "Setup podcast / live",
+      "sub": "Registrazione · prima di andare on air",
+      "glyph": "🎙️",
+      "gradient": [
+        "#7E8BD9",
+        "#4856C4"
+      ],
+      "accent": "#4856C4",
+      "categoryMeta": {
+        "id": "creator",
+        "name": "Creator & Lavoro",
+        "glyph": "🎬",
+        "gradient": [
+          "#7E8BD9",
+          "#4856C4"
+        ],
+        "accent": "#4856C4"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Microfoni collegati e testati",
+          "section": "Audio",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Livelli audio bilanciati",
+          "section": "Audio",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Cuffie per ogni speaker",
+          "section": "Audio"
+        },
+        {
+          "id": 4,
+          "label": "Eliminare rumori di fondo",
+          "section": "Audio"
+        },
+        {
+          "id": 5,
+          "label": "Registratore di backup attivo",
+          "section": "Audio",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Inquadratura e messa a fuoco",
+          "section": "Video"
+        },
+        {
+          "id": 7,
+          "label": "Illuminazione corretta",
+          "section": "Video"
+        },
+        {
+          "id": 8,
+          "label": "Sfondo ordinato",
+          "section": "Video"
+        },
+        {
+          "id": 9,
+          "label": "Connessione internet stabile",
+          "section": "Streaming"
+        },
+        {
+          "id": 10,
+          "label": "Software streaming/registrazione pronto",
+          "section": "Streaming",
+          "required": true
+        },
+        {
+          "id": 11,
+          "label": "Scaletta / domande",
+          "section": "Contenuto",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Nomi ospiti corretti in sovraimpressione",
+          "section": "Contenuto"
+        },
+        {
+          "id": 13,
+          "label": "Acqua per gli speaker",
+          "section": "Backup"
+        },
+        {
+          "id": 14,
+          "label": "Silenziare notifiche / telefoni",
+          "section": "Backup",
+          "required": true
+        },
+        {
+          "id": 15,
+          "label": "Spazio su disco sufficiente",
+          "section": "Backup",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Batterie / alimentazione collegata",
+          "section": "Backup"
+        }
+      ]
+    },
+    {
+      "id": "onboarding-dipendente",
+      "title": "Onboarding dipendente",
+      "sub": "Primo giorno · risorse umane",
+      "glyph": "🧑‍💼",
+      "gradient": [
+        "#7E8BD9",
+        "#4856C4"
+      ],
+      "accent": "#4856C4",
+      "categoryMeta": {
+        "id": "creator",
+        "name": "Creator & Lavoro",
+        "glyph": "🎬",
+        "gradient": [
+          "#7E8BD9",
+          "#4856C4"
+        ],
+        "accent": "#4856C4"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Contratto firmato + documenti",
+          "section": "Burocrazia",
+          "required": true
+        },
+        {
+          "id": 2,
+          "label": "Codice fiscale / coordinate bancarie",
+          "section": "Burocrazia",
+          "required": true
+        },
+        {
+          "id": 3,
+          "label": "Comunicazione assunzione",
+          "section": "Burocrazia"
+        },
+        {
+          "id": 4,
+          "label": "Account email e credenziali",
+          "section": "IT",
+          "required": true
+        },
+        {
+          "id": 5,
+          "label": "Computer / dispositivi configurati",
+          "section": "IT",
+          "required": true
+        },
+        {
+          "id": 6,
+          "label": "Accessi a software e cartelle",
+          "section": "IT"
+        },
+        {
+          "id": 7,
+          "label": "Badge / chiavi accesso",
+          "section": "IT"
+        },
+        {
+          "id": 8,
+          "label": "Postazione pronta",
+          "section": "Postazione",
+          "required": true
+        },
+        {
+          "id": 9,
+          "label": "Materiale d'ufficio",
+          "section": "Postazione"
+        },
+        {
+          "id": 10,
+          "label": "Welcome kit aziendale",
+          "section": "Postazione"
+        },
+        {
+          "id": 11,
+          "label": "Presentazione al team",
+          "section": "Accoglienza",
+          "required": true
+        },
+        {
+          "id": 12,
+          "label": "Assegnazione tutor/buddy",
+          "section": "Accoglienza"
+        },
+        {
+          "id": 13,
+          "label": "Tour della sede",
+          "section": "Accoglienza"
+        },
+        {
+          "id": 14,
+          "label": "Piano primi 30 giorni",
+          "section": "Formazione",
+          "required": true
+        },
+        {
+          "id": 15,
+          "label": "Formazione sicurezza",
+          "section": "Formazione",
+          "required": true
+        },
+        {
+          "id": 16,
+          "label": "Manuale / policy aziendali",
+          "section": "Formazione"
+        }
       ]
     }
   ]
